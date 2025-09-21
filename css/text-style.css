@@ -1,0 +1,110 @@
+@font-face {
+  font-family: Allura;
+  src: url(../fonts/Allura-Regular.ttf);
+}
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/Montserrat-SemiBold.ttf);
+}
+/* - - - - - - - - text styles - - - - - - - - */
+.uppercase {
+  text-transform: uppercase;
+}
+.white {
+  color: #ffffff;
+}
+.black {
+  color: #181C29;
+}
+.red {
+  color: #ff4646;
+}
+.blue {
+  color: #4361FF;
+}
+.green {
+  color: #06A44F;
+}
+.pink {
+  color: #FF43F7;
+}
+.caption {
+  font-family: Allura;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.header1 {
+  font-family: Montserrat;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0.18em;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.header2 {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36.48px;
+  letter-spacing: 0.16em;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.header3 {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24.32px;
+  letter-spacing: 0.08em;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.header4 {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15.6px;
+  letter-spacing: 0.05em;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.paragraph {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23.68px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.action-small {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15.6px;
+  letter-spacing: 0.05em;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.action-large {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36.48px;
+  letter-spacing: 0.16em;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
